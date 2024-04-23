@@ -69,3 +69,24 @@ body {
   padding: 15px;
   margin-top: 30px;
 }
+
+.forgotpass {
+  width: 600px;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+.forgotpass a{
+  color: azure;
+  display: block;
+  margin-top: 10px;
+}
+
+.forgotpass a:hover{
+  color: #f72585;
+}
